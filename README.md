@@ -10,3 +10,5 @@ pull request   a request to merge changes from one branch into another, typicall
 
 git add  stages changes in the working directory for the next
 git commit. saves the staged changes to the repository's history with a descriptive message.
+git push  uploads local branch commits to a remote repository
+git pull  fetches and integrates changes from a remote repository into the current branch
