@@ -6,3 +6,7 @@ git log --oneline --graph --all shows a graphical representation of the commit h
 
 branch  a separate line of development in a repository, allowing for independent changes and features to be worked on without affecting the main codebase.
 pull request   a request to merge changes from one branch into another, typically used in collaborative development to review and discuss code before integration.
+
+
+git add  stages changes in the working directory for the next
+git commit. saves the staged changes to the repository's history with a descriptive message.
